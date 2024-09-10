@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Caleb",
+    "last_name": "Sollner",
+    "email": "csollner0@amazon.com",
+    "gender": "Male",
+    "salary": 100000
+  },
+  {
+    "id": 2,
+    "first_name": "Leesa",
+    "last_name": "Pingston",
+    "email": "lpingston1@webnode.com",
+    "gender": "Female",
+    "salary": 200000
+  },
+  {
+    "id": 3,
+    "first_name": "Corinna",
+    "last_name": "Marrow",
+    "email": "cmarrow2@php.net",
+    "gender": "Female",
+    "salary": 300000
+  },
+  {
+    "id": 4,
+    "first_name": "Brandais",
+    "last_name": "Beetlestone",
+    "email": "bbeetlestone3@tuttocitta.it",
+    "gender": "Female",
+    "salary": 400000
+  },
+  {
+    "id": 5,
+    "first_name": "Selinda",
+    "last_name": "Skelding",
+    "email": "sskelding4@squidoo.com",
+    "gender": "Female",
+    "salary": 500000
+  },
+  {
+    "id": 6,
+    "first_name": "Asia",
+    "last_name": "Reichert",
+    "email": "areichert5@seattletimes.com",
+    "gender": "Female",
+    "salary": 600000
+  },
+  {
+    "id": 7,
+    "first_name": "Kipp",
+    "last_name": "Giovannardi",
+    "email": "kgiovannardi6@blog.com",
+    "gender": "Female",
+    "salary": 700000
+  },
+  {
+    "id": 8,
+    "first_name": "Meg",
+    "last_name": "Boys",
+    "email": "mboys7@youku.com",
+    "gender": "Female",
+    "salary": 800000
+  },
+  {
+    "id": 9,
+    "first_name": "Nilson",
+    "last_name": "Martinolli",
+    "email": "nmartinolli8@time.com",
+    "gender": "Male",
+    "salary": 900000
+  },
+  {
+    "id": 10,
+    "first_name": "Shea",
+    "last_name": "Samson",
+    "email": "ssamson9@cnet.com",
+    "gender": "Male",
+    "salary": 1000000
+  }
+]
